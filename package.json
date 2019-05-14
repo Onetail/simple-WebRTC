@@ -14,5 +14,8 @@
     "http": "0.0.0",
     "https": "^1.0.0",
     "ws": "^7.0.0"
+  },
+  "scripts": {
+    "start": "cd server && sudo node server.js"
   }
 }
